@@ -2,7 +2,7 @@
   "name": "hypergram/custom-attribute",
   "description": "hopefully adds an attribute to a category",
   "type": "magento2-module",
-  "version": "1.0.0",
+  "version": "3.1.1",
   "license": [
     "OSL-3.0",
     "AFL-3.0"
@@ -14,7 +14,7 @@
   "autoload": {
     "files": [ "registration.php" ],
     "psr-4": {
-      "Hypergram\\CustomAttribute\\": ""
+      "Hypergram\\CustomAttribute\\": "app/code/Hypergram/CustomAttribute/"
     }
   }
 }
