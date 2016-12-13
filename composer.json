@@ -13,5 +13,6 @@
   },
   "autoload": {
     "files": [ "registration.php" ]
-  }
+  },
+  "minimum-stability": "alpha"
 }
